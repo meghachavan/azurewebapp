@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="megha-sampleweb" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\B5\\SampleAzureApplication\\SampleAzureApplication\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
